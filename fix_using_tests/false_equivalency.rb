@@ -21,7 +21,5 @@ end
 def runner
   prompt_user
   #binding.pry
-  selection(2)
+  selection()
 end
-
-runner
