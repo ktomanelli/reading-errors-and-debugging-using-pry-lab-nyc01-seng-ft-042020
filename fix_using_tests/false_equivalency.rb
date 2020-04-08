@@ -20,7 +20,7 @@ end
 
 def runner
   prompt_user
-  #binding.pry
+  binding.pry
   selection(2)
 end
 
